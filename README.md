@@ -1,16 +1,5 @@
 # sudoku
-C++ 实现的跨平台数独游戏，命令行操作易上手，可以在开发间隙用来放松身心。数百行代码，初学者也可以轻松掌握。
-欢迎通过pull request的方式来添加功能或修复缺陷。
-
-## 感谢贡献者
-@ChungZH @Gusabary @lingdianlink @RoninKagome
-
-## 特性
-1. 跨平台 : Linux/Windows/macOS
-
-## 依赖
-1. cmake 3.12及以上
-
+increase randomness and difficulty based on sudoku
 ## 构建
 1. Windows 下一键编译: `build.bat`
 2. macOS/Linux 下一键构建: `sh build.sh` （可能需要 `chmod +x build.sh` 赋予执行权限）
